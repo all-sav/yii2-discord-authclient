@@ -15,13 +15,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require all-sav/yii2-discord-authclient "^1.0"
+composer require pa3py6aka/yii2-discord-authclient "^1.0"
 ```
 
 or add
 
 ```json
-"all-sav/yii2-discord-authclient": "^1.0"
+"pa3py6aka/yii2-discord-authclient": "^1.0"
 ```
 
 to the `require` section of your composer.json.
